@@ -20,3 +20,10 @@ For the Robot itself,
 - SEN-11769, Sparkfun Redbot Sensor - Line Follower (2 of them)
 - DEV-13975, Sparkfun RedBoard - Programmed with Arduino
 - Jumper Wires
+
+# Assembly Procedures
+
+# Test Equipment
+The only test equipment that was used in our lab was a black line of tape as well as the arduino program that was used to test the robot sensors that follow the black line of tape for movement.
+
+# Test Procedures
