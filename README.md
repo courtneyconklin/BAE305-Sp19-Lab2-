@@ -20,6 +20,13 @@ For the Robot itself,
 - SEN-11769, Sparkfun Redbot Sensor - Line Follower (2 of them)
 - DEV-13975, Sparkfun RedBoard - Programmed with Arduino
 - Jumper Wires
+- Front Motor Mount (C)
+- Rear Motor Mount (D)
+- Motor (K)
+- Line Follower Mount (I)
+- Line Follower Mount PLate (J)
+- Side Strut (E)
+- Nub Caster (M)
 
 # Assembly Procedures
 
