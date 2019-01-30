@@ -9,6 +9,7 @@ For Soldering, the materials are as followed.
 - Wet Paper Towel
 - Power Source
 - Lead to solder with
+
 For the Robot itself,
 - ROB-13259, Wheel 65mm (Rubber Tire, pair)
 - ROB-13301, Shadow Chassis
