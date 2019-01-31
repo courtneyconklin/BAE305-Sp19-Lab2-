@@ -27,6 +27,9 @@ For the Robot itself,
 - Line Follower Mount PLate (J)
 - Side Strut (E)
 - Nub Caster (M)
+- Battery Pack Clip (H)
+- Battery Holder (Z)
+- 4 AA Batteries
 
 # Assembly Procedures
 
