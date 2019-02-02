@@ -76,3 +76,7 @@ i. 	Begin assembling the robot as specified in the following steps:
 The only test equipment that was used in our lab was a black line of tape as well as the arduino program that was used to test the robot sensors that follow the black line of tape for movement.
 
 # Test Procedures
+
+# Test Results
+
+# Discussion
