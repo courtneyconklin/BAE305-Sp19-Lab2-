@@ -71,6 +71,13 @@ i. 	Begin assembling the robot as specified in the following steps:
   - Attach the Line Follower to the Chassis: Locate the wide, rectangular slot near the front of the chassis and snap the line follower assembly in from the bottom side of the chassis. Route the cables through the large hole in the bottom plate.
   
   c. Chassis - Install the battery pack on the bottom before the installing the top plate.
+  - Snap the Nub Caster (M) into the slot on the back of the Bottom Chassis Plate assembly. Make sure the Nub Caster is on the side opposite the motors (the bottom side).
+  - Snap the four Side Struts (E) into the diagonal slots on the four corners of the Bottom Chassis Plate assembly.
+  - Route the Cables
+    Position the Top Chassis Plate over the Bottom Chassis Plate – but do not snap the two plates together yet. Make sure that the front     sides of each plate line up.
+
+    Route the wires and cables through the left and right oval slots in the Top Chassis Plate assembly as shown. For the center line         follower sensor, route this cable through the right oval slot. Note that SIK-only cables are listed with an asterisk (*).
+  
   
 # Test Equipment
 The only test equipment that was used in our lab was a black line of tape as well as the arduino program that was used to test the robot sensors that follow the black line of tape for movement.
