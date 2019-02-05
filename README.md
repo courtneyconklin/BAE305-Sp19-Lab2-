@@ -1,5 +1,5 @@
 # BAE305 Lab 2 - Soldering and Reverse Engineering
-# By: Spencer Givan
+# By: Spencer Givan, Ashely Burgman, Courtney Conklin
 # Summary
 For this lab, the overall goal is to learn the important tools of Soldering and Reverse Engineering. Soldering is a technique of sorts that "welds" or puts things together permanently. There are several way to do so and the purpose of this lab was for us to learn those ways. The lab also has us take apart a robot completely and put it back together, specifically a Redbot with shadow chassis with parts from sparkfun. This can be described as Reverse Engineering, beacuse by seeing the internal parts of the robot, its' function, design, and specificity is revealed, giving the observer the keys to how it works.
 # Materials
@@ -78,12 +78,28 @@ i. 	Begin assembling the robot as specified in the following steps:
 
     Route the wires and cables through the left and right oval slots in the Top Chassis Plate assembly as shown. For the center line         follower sensor, route this cable through the right oval slot. Note that SIK-only cables are listed with an asterisk (*).
   
-  
+     Cable Connection	Oval Side
+     Left Bumper Sensor*	Left
+     Right Bumper Sensor*	Right
+     Left Line Follower	Left
+     Center Line Follower	Right
+     Right Line Follower	Right
+     Left Motor wires (red and black)	Left
+     Right Motor wires (red and black)	Right
+     Left Wheel Encoder*	Left
+     Right Wheel Encoder*	Right
+   
+  Now, we need to attach the Top Chassis Plate Assembly
+  Line up the Top Chassis Plate on top of all the struts, and carefully snap the Top Chassis Plate assembly onto the side struts and       motor mounts. Press gently above each side strut individually until they each snap into place. If you have the Bumpers installed,       make sure the boards are between the top and bottom plates.
+
+
 # Test Equipment
-The only test equipment that was used in our lab was a black line of tape as well as the arduino program that was used to test the robot sensors that follow the black line of tape for movement.
+The only test equipment that was used in our lab was a black line of tape as well as the arduino program that was used to test the robot sensors that follow the black line of tape for movement. Also an arduino and a computer to run the program.
 
 # Test Procedures
-
+1. Took the built robot and plugged it into the TA's computer.
+2. Ran Arduino on the computer to make sure the robot functioned properly.
 # Test Results
 
 # Discussion
+Practicing soldering on the scrap materials allowed for me to become comfortable and familiar with this technique and be apply to solder the parts on my robot. I also was able to easily assemble my robot by following the directions. Another tool that I was able learn within this lab was how to read a wiring chart to connect the two components, which was something I had not be exposed to before this lab. Having a properly assembled robot that works with the Aruduino will allow me to be able to complete other labs in the future for this course.
