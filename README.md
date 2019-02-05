@@ -71,6 +71,8 @@ i. 	Begin assembling the robot as specified in the following steps:
   - Attach the Line Follower to the Chassis: Locate the wide, rectangular slot near the front of the chassis and snap the line follower assembly in from the bottom side of the chassis. Route the cables through the large hole in the bottom plate.
   
   c. Chassis - Install the battery pack on the bottom before the installing the top plate.
+    Instal 4 AA batteries into the battery pack and attach to the bottom plate. Secure its' position with the battery clip (H).  
+  
   - Snap the Nub Caster (M) into the slot on the back of the Bottom Chassis Plate assembly. Make sure the Nub Caster is on the side opposite the motors (the bottom side).
   - Snap the four Side Struts (E) into the diagonal slots on the four corners of the Bottom Chassis Plate assembly.
   - Route the Cables
